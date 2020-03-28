@@ -1,0 +1,20 @@
+*{
+    text-align: center;
+    background-color: antiquewhite;
+    margin: 10px  auto;
+}
+#num{
+    font-size: large;
+    border: 4px inset gray;
+}
+#button{
+    border: 4px outset silver;
+}
+#main{
+    padding: 10px;
+    border: 6px dashed orange;
+    width: 30%;
+}
+#bt{
+    border: 4px outset silver;
+}
